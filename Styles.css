@@ -1,0 +1,25 @@
+body{
+    background-color:rgba(148, 205, 148, 0.707);
+}
+
+h1{
+    text-align: center;
+}
+
+.Images{
+    margin: 20px 430px;
+}
+
+.col1{
+    display: flex;
+}
+
+img{
+    width:190px;
+    padding: 10px;
+}
+
+img:hover{
+    background-color:black;
+    cursor: pointer;
+}
